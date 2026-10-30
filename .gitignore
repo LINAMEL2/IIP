@@ -1,0 +1,6 @@
+data/
+venv/
+imp/
+__pycache__/
+*.npy
+*.faiss
